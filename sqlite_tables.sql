@@ -1,0 +1,1 @@
+create table stock(id int primary key, symbol char(20), open_price float, highest_price float, lowest_price float, closing_price float,purchase_date date, volume int);
