@@ -1,7 +1,10 @@
 """
 Author: Priyanka Sirigadde
 Date created: 08/06/20
-Functionality: This program consists of Stock class to initialize stock object.
+Functionality: This program consists of Stock class to initialize stock object,
+                read json file with stock data,
+                perform operations on Stock data,
+                create lists required for Pygal.
 """
 
 import json

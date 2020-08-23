@@ -1,6 +1,5 @@
 import Stock
 import DataVisualize
-import DBConnection
 
 
 def main():
